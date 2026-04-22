@@ -1,6 +1,6 @@
 # warehouse
 
-Data warehouse. Historical time-series snapshots for Solana DeFi: perp funding rates, lending reserves, vault strategies.
+Historical data from genesis up to now of some Solana DeFi protocols : perp funding rates, lending reserves, vault strategies.
 
 ## Layout
 
