@@ -61886,5 +61886,221 @@
     "funding_rate": "-0.00000721",
     "next_funding_rate": "-0.0000014",
     "created_at": 1776765603685
+  },
+  {
+    "oracle_price": "86.152855",
+    "bid_impact_price": "86.104857",
+    "ask_impact_price": "86.13",
+    "funding_rate": "-0.0000014",
+    "next_funding_rate": "0.00001032",
+    "created_at": 1776769203685
+  },
+  {
+    "oracle_price": "85.842001",
+    "bid_impact_price": "85.79",
+    "ask_impact_price": "85.800156",
+    "funding_rate": "0.00001032",
+    "next_funding_rate": "0.00000428",
+    "created_at": 1776772803685
+  },
+  {
+    "oracle_price": "85.517249",
+    "bid_impact_price": "85.5",
+    "ask_impact_price": "85.51",
+    "funding_rate": "0.00000428",
+    "next_funding_rate": "0.00000958",
+    "created_at": 1776776403686
+  },
+  {
+    "oracle_price": "85.813432",
+    "bid_impact_price": "85.8",
+    "ask_impact_price": "85.815329",
+    "funding_rate": "0.00000958",
+    "next_funding_rate": "0.000015",
+    "created_at": 1776780003685
+  },
+  {
+    "oracle_price": "85.770837",
+    "bid_impact_price": "85.82",
+    "ask_impact_price": "85.839252",
+    "funding_rate": "0.000015",
+    "next_funding_rate": "0.000015",
+    "created_at": 1776783603685
+  },
+  {
+    "oracle_price": "86.051327",
+    "bid_impact_price": "86.03",
+    "ask_impact_price": "86.04",
+    "funding_rate": "0.000015",
+    "next_funding_rate": "0.00001226",
+    "created_at": 1776787203685
+  },
+  {
+    "oracle_price": "85.689669",
+    "bid_impact_price": "85.62",
+    "ask_impact_price": "85.63",
+    "funding_rate": "0.00001226",
+    "next_funding_rate": "-0.00000162",
+    "created_at": 1776790803685
+  },
+  {
+    "oracle_price": "85.31605",
+    "bid_impact_price": "85.24",
+    "ask_impact_price": "85.25",
+    "funding_rate": "-0.00000162",
+    "next_funding_rate": "0.00000757",
+    "created_at": 1776794403686
+  },
+  {
+    "oracle_price": "85.242698",
+    "bid_impact_price": "85.21",
+    "ask_impact_price": "85.22",
+    "funding_rate": "0.00000757",
+    "next_funding_rate": "0.00000376",
+    "created_at": 1776798003685
+  },
+  {
+    "oracle_price": "84.568379",
+    "bid_impact_price": "84.474831",
+    "ask_impact_price": "84.5",
+    "funding_rate": "0.00000376",
+    "next_funding_rate": "0.00001449",
+    "created_at": 1776801603685
+  },
+  {
+    "oracle_price": "85.452136",
+    "bid_impact_price": "85.4",
+    "ask_impact_price": "85.41",
+    "funding_rate": "0.00001449",
+    "next_funding_rate": "0.0000085",
+    "created_at": 1776805203685
+  },
+  {
+    "oracle_price": "85.155577",
+    "bid_impact_price": "85.09",
+    "ask_impact_price": "85.1",
+    "funding_rate": "0.0000085",
+    "next_funding_rate": "0.00000447",
+    "created_at": 1776808803685
+  },
+  {
+    "oracle_price": "85.364913",
+    "bid_impact_price": "85.29",
+    "ask_impact_price": "85.3",
+    "funding_rate": "0.00000447",
+    "next_funding_rate": "-0.00001159",
+    "created_at": 1776812403685
+  },
+  {
+    "oracle_price": "86.035565",
+    "bid_impact_price": "86.01",
+    "ask_impact_price": "86.035816",
+    "funding_rate": "-0.00001159",
+    "next_funding_rate": "0.00000001",
+    "created_at": 1776816003685
+  },
+  {
+    "oracle_price": "86.489846",
+    "bid_impact_price": "86.45",
+    "ask_impact_price": "86.46",
+    "funding_rate": "0.00000001",
+    "next_funding_rate": "0.00000206",
+    "created_at": 1776819601036
+  },
+  {
+    "oracle_price": "86.272064",
+    "bid_impact_price": "86.24",
+    "ask_impact_price": "86.25",
+    "funding_rate": "0.00000206",
+    "next_funding_rate": "0.00000535",
+    "created_at": 1776823201036
+  },
+  {
+    "oracle_price": "87.417257",
+    "bid_impact_price": "87.38",
+    "ask_impact_price": "87.39",
+    "funding_rate": "0.00000535",
+    "next_funding_rate": "0.00000749",
+    "created_at": 1776826801035
+  },
+  {
+    "oracle_price": "87.24532",
+    "bid_impact_price": "87.19",
+    "ask_impact_price": "87.2",
+    "funding_rate": "0.00000749",
+    "next_funding_rate": "-0.00000347",
+    "created_at": 1776830401036
+  },
+  {
+    "oracle_price": "87.074797",
+    "bid_impact_price": "87.029746",
+    "ask_impact_price": "87.05",
+    "funding_rate": "-0.00000347",
+    "next_funding_rate": "-0.00000087",
+    "created_at": 1776834001036
+  },
+  {
+    "oracle_price": "88.022942",
+    "bid_impact_price": "87.98",
+    "ask_impact_price": "87.99",
+    "funding_rate": "-0.00000087",
+    "next_funding_rate": "-0.00001203",
+    "created_at": 1776837601036
+  },
+  {
+    "oracle_price": "87.958711",
+    "bid_impact_price": "87.89",
+    "ask_impact_price": "87.9",
+    "funding_rate": "-0.00001203",
+    "next_funding_rate": "-0.00000298",
+    "created_at": 1776841201035
+  },
+  {
+    "oracle_price": "88.05605",
+    "bid_impact_price": "88",
+    "ask_impact_price": "88.031462",
+    "funding_rate": "-0.00000298",
+    "next_funding_rate": "-0.00000915",
+    "created_at": 1776844801036
+  },
+  {
+    "oracle_price": "88.009738",
+    "bid_impact_price": "87.92",
+    "ask_impact_price": "87.93",
+    "funding_rate": "-0.00000915",
+    "next_funding_rate": "-0.00001181",
+    "created_at": 1776848401036
+  },
+  {
+    "oracle_price": "88.306022",
+    "bid_impact_price": "88.23",
+    "ask_impact_price": "88.24",
+    "funding_rate": "-0.00001181",
+    "next_funding_rate": "-0.00001313",
+    "created_at": 1776852001036
+  },
+  {
+    "oracle_price": "88.335247",
+    "bid_impact_price": "88.264202",
+    "ask_impact_price": "88.29",
+    "funding_rate": "-0.00001313",
+    "next_funding_rate": "-0.0000106",
+    "created_at": 1776855601036
+  },
+  {
+    "oracle_price": "88.312648",
+    "bid_impact_price": "88.261409",
+    "ask_impact_price": "88.28",
+    "funding_rate": "-0.0000106",
+    "next_funding_rate": "-0.00001617",
+    "created_at": 1776859201036
+  },
+  {
+    "oracle_price": "88.581381",
+    "bid_impact_price": "88.501193",
+    "ask_impact_price": "88.52",
+    "funding_rate": "-0.00001617",
+    "next_funding_rate": "-0.00000664",
+    "created_at": 1776862801035
   }
 ]
